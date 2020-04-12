@@ -1,2 +1,0 @@
-# xbx
-xbx contract
